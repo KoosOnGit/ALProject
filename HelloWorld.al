@@ -11,6 +11,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 
     trigger OnClosePage();
     begin
-        Message('Goodbye and see you soon!');
+        Message('Goodbye and see you soon in a pub nearby!');
     end;
 }
